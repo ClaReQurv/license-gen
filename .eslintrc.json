@@ -4,9 +4,7 @@
     "node": true,
     "jest": true
   },
-  "extends": [
-    "airbnb-base/legacy"
-  ],
+  "extends": ["airbnb-base/legacy"],
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module"
@@ -14,18 +12,10 @@
   "rules": {
     "linebreak-style": 0,
     "no-unused-vars": "off",
-    "indent": [
-      "error",
-      2
-    ],
-    "quotes": [
-      "error",
-      "single"
-    ],
-    "semi": [
-      "error",
-      "always"
-    ],
-    "no-console": "warn"
+    "indent": ["error", 2],
+    "quotes": ["error", "double"],
+    "semi": ["error", "always"],
+    "no-console": "warn",
+    "max-len": "off"
   }
 }
