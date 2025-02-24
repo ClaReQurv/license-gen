@@ -23,6 +23,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ClaReQurv",
+      "name": "Tydron16",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114885071?v=4",
+      "profile": "https://github.com/ClaReQurv",
+      "contributions": [
+        "code",
+        "platform",
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7,
